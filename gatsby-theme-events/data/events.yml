@@ -1,0 +1,17 @@
+- name: React Rally
+  location: Sofia, Bulgaria
+  start_date: 2011-08-22
+  end_date: 2011-08-25
+  url: https://reactrally.com/
+
+- name: JS Talks
+  location: Sofia, Bulgaria
+  start_date: 2019-08-22
+  end_date: 2019-08-25
+  url: http://jstalks.net/
+
+- name: Hack conf
+  location: Sofia, Bulgaria
+  start_date: 2019-10-12
+  end_date: 2019-10-13
+  url: https://www.hackconf.bg/en/
