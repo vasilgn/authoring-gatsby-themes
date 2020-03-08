@@ -83,3 +83,4 @@ exports.onPreBootstrap = ({ reporter }) => {
     });
   };
 };
+//todo render pages
