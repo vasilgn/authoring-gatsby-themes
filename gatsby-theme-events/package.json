@@ -14,7 +14,11 @@
     "react-dom": "^16.13.0"
   },
   "devDependencies": {
+    "eslint": "^7.1.0",
+    "eslint-config-react-app": "^5.2.1",
+    "eslint-loader": "^4.0.2",
     "gatsby": "^2.19.29",
+    "gatsby-plugin-eslint": "^2.0.8",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   },

@@ -32,7 +32,7 @@ exports.onPreBootstrap = ({ reporter }) => {
         .replace(/[^a-z0-9]+/g, "-")
         .replace(/^-|-$/g, "");
 
-      return `/${basepath}/${slug}`.replace(/\/\/+/g, "/");
+      return `/${basePath}/${slug}`.replace(/\/\/+/g, "/");
     };
 
     createResolvers({
