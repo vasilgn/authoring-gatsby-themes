@@ -5,6 +5,6 @@ const preferDefault = m => m && m.default || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": hot(preferDefault(require("/home/master/gatsby-workspace/authoring-gatsby-themes/site/.cache/dev-404-page.js")))
+  "component---cache-dev-404-page-js": hot(preferDefault(require("/home/master/WebstormProjects/authoring-gatsby-themes/site/.cache/dev-404-page.js")))
 }
 

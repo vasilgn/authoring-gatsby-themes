@@ -1,6 +1,6 @@
 import React from 'react';
 
-const EventsTemplate () => {
+const EventsTemplate = () => {
   return <p>Todo</p>;
 };
 
